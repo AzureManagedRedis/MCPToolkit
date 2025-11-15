@@ -1,0 +1,13 @@
+# Azure AI SDK
+azure-ai-projects>=1.0.0
+azure-ai-agents>=1.2.0b4
+azure-identity>=1.15.0
+
+# MCP SDK for Redis integration
+mcp>=1.0.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# Data processing
+asyncio-sse-client>=0.2.1
