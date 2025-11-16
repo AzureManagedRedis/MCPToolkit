@@ -90,6 +90,7 @@ def main():
             model=model_name,
             name="travel-assistant",
             instructions="You are a travel destination recommender."
+            "Always store and search for user preferences in Redis MCP tool. Preferences are stored as username_preferences, all lowercase."
             "Always recommend destinations included in destinations knowledge store from Redis MCP tool only.",
             tools=mcp_tool.definitions,
         )

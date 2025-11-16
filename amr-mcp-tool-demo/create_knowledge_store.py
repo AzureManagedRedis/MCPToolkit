@@ -20,8 +20,7 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Majestic and adventurous",
       "best_season": ["spring", "summer", "fall"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -33,8 +32,7 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Fast-paced and energetic",
       "best_season": ["spring", "fall"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -46,8 +44,7 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Peaceful and mystical",
       "best_season": ["spring", "fall", "winter"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -59,8 +56,7 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Relaxed and tropical",
       "best_season": ["year-round"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -72,8 +68,7 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Historic and intellectual",
       "best_season": ["spring", "summer", "fall"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -85,8 +80,7 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Laid-back and sunny",
       "best_season": ["year-round"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -98,8 +92,7 @@ destinations = [
       "family_friendly": "false",
       "vibe": "Glamorous and exciting",
       "best_season": ["spring", "fall", "winter"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -111,8 +104,7 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Outdoor adventure paradise",
       "best_season": ["winter", "summer"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -124,8 +116,7 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Festive and soulful",
       "best_season": ["winter", "spring"]
-    },
-    "distance_threshold": 0.3
+    }
   },
   {
     "store_name": "destinations",
@@ -137,8 +128,127 @@ destinations = [
       "family_friendly": "true",
       "vibe": "Majestic and humbling",
       "best_season": ["spring", "fall"]
-    },
-    "distance_threshold": 0.3
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A world-renowned beach destination featuring 10 miles of pristine white sand beaches, crystal-clear emerald waters, and charming coastal communities. This laid-back and pristine paradise offers excellent fishing, water sports, beachcombing, and seafood dining in a subtropical climate with mild winters and warm summers. Perfect for families seeking beaches, nature, relaxation, and outdoor activities, with spring through fall being the best seasons to visit this Gulf Coast gem.",
+    "response": "Destin, Florida",
+    "metadata": {
+      "categories": ["beaches", "nature", "relaxation", "family", "fishing"],
+      "weather": "Subtropical, mild winters, warm summers",
+      "family_friendly": "true",
+      "vibe": "Laid-back and pristine",
+      "best_season": ["spring", "summer", "fall"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A stunning Pacific Coast destination featuring dramatic rocky coastlines, pristine beaches, world-class wineries, and charming coastal towns. This romantic and scenic paradise offers wine tasting, coastal drives, hiking, art galleries, and farm-to-table dining with a Mediterranean climate and mild weather year-round. Perfect for couples and families seeking beaches, nature, food, wine, and relaxation, this destination is beautiful to visit any time of year.",
+    "response": "Monterey and Carmel, California",
+    "metadata": {
+      "categories": ["beaches", "nature", "food", "wine", "romantic"],
+      "weather": "Mediterranean climate, mild year-round",
+      "family_friendly": "true",
+      "vibe": "Romantic and scenic",
+      "best_season": ["year-round"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A majestic mountain wilderness featuring towering peaks over 14,000 feet, pristine alpine lakes, abundant wildlife, and endless outdoor recreation opportunities. This rugged and inspiring destination offers world-class hiking, fishing, camping, wildlife viewing, and scenic drives through diverse ecosystems from grasslands to alpine tundra. Experience mountain climate with cold snowy winters and mild summers, making summer and early fall the best seasons for this family-friendly nature and adventure paradise.",
+    "response": "Rocky Mountain National Park, Colorado",
+    "metadata": {
+      "categories": ["nature", "adventure", "hiking", "mountains", "wildlife"],
+      "weather": "Mountain climate, cold winters, mild summers",
+      "family_friendly": "true",
+      "vibe": "Rugged and inspiring",
+      "best_season": ["summer", "fall"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "An exclusive island paradise accessible only by ferry, featuring 25 miles of pristine beaches, upscale resorts, world-class golf courses, and charming New England coastal charm. This sophisticated and tranquil destination offers tennis, spa treatments, fine dining, boutique shopping, and maritime activities in a temperate coastal climate. Perfect for luxury-seeking families and couples looking for beaches, relaxation, and refined experiences, with late spring through early fall being the ideal seasons.",
+    "response": "Nantucket, Massachusetts",
+    "metadata": {
+      "categories": ["beaches", "luxury", "relaxation", "golf", "maritime"],
+      "weather": "Temperate coastal climate",
+      "family_friendly": "true",
+      "vibe": "Sophisticated and tranquil",
+      "best_season": ["spring", "summer", "fall"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A vibrant music city known as the live music capital of the world, featuring eclectic neighborhoods, food trucks, craft breweries, and the famous South by Southwest festival. This hip and creative destination offers outdoor activities around Lady Bird Lake, barbecue cuisine, artistic murals, and a thriving nightlife scene in a warm subtropical climate with hot summers and mild winters. Perfect for culture, music, food, and nightlife enthusiasts, with spring and fall being the most comfortable seasons.",
+    "response": "Austin, Texas",
+    "metadata": {
+      "categories": ["culture", "music", "food", "nightlife", "festivals"],
+      "weather": "Subtropical, hot summers, mild winters",
+      "family_friendly": "true",
+      "vibe": "Hip and creative",
+      "best_season": ["spring", "fall"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A unique desert oasis featuring otherworldly Joshua tree forests, massive rock formations perfect for climbing, and some of the clearest night skies in the country. This mystical and adventurous destination offers hiking, rock climbing, stargazing, photography, and desert camping in an arid desert climate with mild winters and hot summers. Perfect for nature lovers and adventure seekers, with fall, winter, and spring being the best seasons to avoid extreme summer heat.",
+    "response": "Joshua Tree National Park, California",
+    "metadata": {
+      "categories": ["nature", "adventure", "climbing", "stargazing", "photography"],
+      "weather": "Desert climate, hot summers, mild winters",
+      "family_friendly": "true",
+      "vibe": "Mystical and adventurous",
+      "best_season": ["fall", "winter", "spring"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A charming Southern coastal city known for its historic architecture, horse-drawn carriage tours, antebellum mansions, and world-renowned culinary scene. This romantic and historic destination features cobblestone streets, beautiful gardens, ghost tours, and proximity to beautiful beaches on nearby islands. Experience humid subtropical climate with mild winters and hot summers, making spring and fall the most pleasant seasons for exploring this family-friendly hub of history, culture, food, and Southern hospitality.",
+    "response": "Charleston, South Carolina",
+    "metadata": {
+      "categories": ["history", "culture", "food", "romantic", "beaches"],
+      "weather": "Humid subtropical, mild winters, hot summers",
+      "family_friendly": "true",
+      "vibe": "Romantic and historic",
+      "best_season": ["spring", "fall"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A stunning Pacific Northwest coastal destination featuring dramatic sea stacks, pristine beaches, lush temperate rainforests, and charming coastal towns. This serene and wild paradise offers tide pooling, whale watching, lighthouse visits, hiking through old-growth forests, and fresh seafood dining in a cool oceanic climate with mild wet winters and dry summers. Perfect for nature lovers and families seeking beaches, wildlife, and outdoor adventures, with summer being the driest and most popular season.",
+    "response": "Oregon Coast",
+    "metadata": {
+      "categories": ["beaches", "nature", "wildlife", "hiking", "scenic"],
+      "weather": "Cool oceanic climate, wet winters, dry summers",
+      "family_friendly": "true",
+      "vibe": "Serene and wild",
+      "best_season": ["summer"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A tropical island chain offering endless white sand beaches, crystal-clear turquoise waters, world-class fishing, and vibrant coral reefs. This laid-back and tropical paradise features water sports, snorkeling, diving, conch fritters, key lime pie, and stunning sunsets in a tropical climate with warm weather year-round and occasional hurricanes in late summer. Perfect for families and couples seeking beaches, relaxation, fishing, and tropical experiences anytime of the year.",
+    "response": "Florida Keys",
+    "metadata": {
+      "categories": ["beaches", "tropical", "fishing", "diving", "relaxation"],
+      "weather": "Tropical climate, warm year-round",
+      "family_friendly": "true",
+      "vibe": "Laid-back and tropical",
+      "best_season": ["year-round"]
+    }
+  },
+  {
+    "store_name": "destinations",
+    "prompt": "A dramatic coastal region featuring rugged cliffs, pristine beaches, towering redwood forests, and picturesque seaside villages. This breathtaking and romantic destination offers scenic drives, wine tasting, hiking, art galleries, and farm-to-table dining along one of America's most beautiful coastlines. Experience cool Mediterranean climate with mild temperatures year-round and frequent fog, making this perfect for couples and families seeking nature, beaches, wine, and scenic beauty anytime of the year.",
+    "response": "Big Sur, California",
+    "metadata": {
+      "categories": ["beaches", "nature", "romantic", "wine", "scenic"],
+      "weather": "Cool Mediterranean climate, mild year-round",
+      "family_friendly": "true",
+      "vibe": "Breathtaking and romantic",
+      "best_season": ["year-round"]
+    }
   }
 ]
 
