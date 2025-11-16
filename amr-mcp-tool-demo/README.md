@@ -73,6 +73,7 @@ The agent will:
 ### Example Queries
 
 Try asking the agent questions like:
+- "I am Alice. I like food tours and travel with kids. Recommend me beach destinations."
 - "I'm looking for a family-friendly destination with beautiful nature"
 - "Recommend a place for hiking and outdoor adventures"
 - "What's a good tropical destination for relaxation?"
